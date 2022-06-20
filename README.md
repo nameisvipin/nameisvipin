@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nameisvipin
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Android studio development
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning flutter, dart and firebase.
 - 📫 You can reach me via mail id @guptavipin809@gmail.com 
 
 <!---
